@@ -1,0 +1,38 @@
+/* Define a custom style for the score items */
+.score-item {
+    -fx-font-size: 20;
+    -fx-font-weight: bold;
+    -fx-padding: 5 10;
+    -fx-background-radius: 10;
+    -fx-background-color: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    -fx-text-fill: white;
+}
+
+/* Apply a different color of the rainbow to each score item */
+.score-item:nth-child(1) {
+    -fx-background-color: red;
+}
+
+.score-item:nth-child(2) {
+    -fx-background-color: orange;
+}
+
+.score-item:nth-child(3) {
+    -fx-background-color: yellow;
+}
+
+.score-item:nth-child(4) {
+    -fx-background-color: green;
+}
+
+.score-item:nth-child(5) {
+    -fx-background-color: blue;
+}
+
+.score-item:nth-child(6) {
+    -fx-background-color: indigo;
+}
+
+.score-item:nth-child(7) {
+    -fx-background-color: violet;
+}

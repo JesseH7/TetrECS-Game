@@ -1,0 +1,58 @@
+@options
+@packages
+@argfile
+--class-path
+'C:/Users/Silen/.m2/repository/org/openjfx/javafx-controls/21-ea+5/javafx-controls-21-ea+5.jar;C:/Users/Silen/.m2/repository/org/openjfx/javafx-graphics/21-ea+5/javafx-graphics-21-ea+5.jar;C:/Users/Silen/.m2/repository/org/openjfx/javafx-base/21-ea+5/javafx-base-21-ea+5.jar;C:/Users/Silen/.m2/repository/org/openjfx/javafx-fxml/21-ea+5/javafx-fxml-21-ea+5.jar;C:/Users/Silen/.m2/repository/org/openjfx/javafx-media/21-ea+5/javafx-media-21-ea+5.jar;C:/Users/Silen/.m2/repository/org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0.jar'
+--module-path
+'C:/Users/Silen/.m2/repository/org/openjfx/javafx-media/21-ea+5/javafx-media-21-ea+5-win.jar;C:/Users/Silen/.m2/repository/com/neovisionaries/nv-websocket-client/2.14/nv-websocket-client-2.14.jar;C:/Users/Silen/.m2/repository/org/openjfx/javafx-base/21-ea+5/javafx-base-21-ea+5-win.jar;C:/Users/Silen/.m2/repository/org/openjfx/javafx-controls/21-ea+5/javafx-controls-21-ea+5-win.jar;C:/Users/Silen/.m2/repository/org/openjfx/javafx-graphics/21-ea+5/javafx-graphics-21-ea+5-win.jar;C:/Users/Silen/.m2/repository/org/openjfx/javafx-fxml/21-ea+5/javafx-fxml-21-ea+5-win.jar;C:/Users/Silen/OneDrive - University of Southampton/Documents/Computer Science/Programming 2/Tetrecs CW/tetrecs/target/classes;C:/Users/Silen/.m2/repository/org/apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0.jar'
+--patch-module
+uk.ac.soton.comp1206='C:/Users/Silen/OneDrive - University of Southampton/Documents/Computer Science/Programming 2/Tetrecs CW/tetrecs/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+--module-source-path
+'C:/Users/Silen/OneDrive - University of Southampton/Documents/Computer Science/Programming 2/Tetrecs CW/tetrecs/target/site/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Silen/OneDrive - University of Southampton/Documents/Computer Science/Programming 2/Tetrecs CW/tetrecs/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'tetrecs 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'tetrecs 1.0-SNAPSHOT API'
+uk.ac.soton.comp1206
+uk.ac.soton.comp1206.component
+uk.ac.soton.comp1206.event
+uk.ac.soton.comp1206.game
+uk.ac.soton.comp1206.network
+uk.ac.soton.comp1206.scene
+uk.ac.soton.comp1206.ui
+'C:/Users/Silen/OneDrive - University of Southampton/Documents/Computer Science/Programming 2/Tetrecs CW/tetrecs/src/main/java/module-info.java'
+C:\Users\Silen\OneDrive - University of Southampton\Documents\Computer Science\Programming 2\Tetrecs CW\tetrecs\target\site\apidocs\allclasses-index.html = 1682526215080
+C:\Users\Silen\OneDrive - University of Southampton\Documents\Computer Science\Programming 2\Tetrecs CW\tetrecs\target\site\apidocs\allpackages-index.html = 1682526215083
+C:\Users\Silen\OneDrive - University of Southampton\Documents\Computer Science\Programming 2\Tetrecs CW\tetrecs\target\site\apidocs\constant-values.html = 1682526214946
+C:\Users\Silen\OneDrive - University of Southampton\Documents\Computer Science\Programming 2\Tetrecs CW\tetrecs\target\site\apidocs\copy.svg = 1682526215124
+C:\Users\Silen\OneDrive - University of Southampton\Documents\Computer Science\Programming 2\Tetrecs CW\tetrecs\target\site\apidocs\element-list = 1682526214838
+C:\Users\Silen\OneDrive - University of Southampton\Documents\Computer Science\Programming 2\Tetrecs CW\tetrecs\target\site\apidocs\help-doc.html = 1682526215121
+C:\Users\Silen\OneDrive - University of Southampton\Documents\Computer Science\Programming 2\Tetrecs CW\tetrecs\target\site\apidocs\index-all.html = 1682526215109
+C:\Users\Silen\OneDrive - University of Southampton\Documents\Computer Science\Programming 2\Tetrecs CW\tetrecs\target\site\apidocs\index.html = 1682526215115
+C:\Users\Silen\OneDrive - University of Southampton\Documents\Computer Science\Programming 2\Tetrecs CW\tetrecs\target\site\apidocs\member-search-index.js = 1682526215088
+C:\Users\Silen\OneDrive - University of Southampton\Documents\Computer Science\Programming 2\Tetrecs CW\tetrecs\target\site\apidocs\module-search-index.js = 1682526215085
+C:\Users\Silen\OneDrive - University of Southampton\Documents\Computer Science\Programming 2\Tetrecs CW\tetrecs\target\site\apidocs\overview-tree.html = 1682526215054
+C:\Users\Silen\OneDrive - University of Southampton\Documents\Computer Science\Programming 2\Tetrecs CW\tetrecs\target\site\apidocs\package-search-index.js = 1682526215086
+C:\Users\Silen\OneDrive - University of Southampton\Documents\Computer Science\Programming 2\Tetrecs CW\tetrecs\target\site\apidocs\script.js = 1682526215123
+C:\Users\Silen\OneDrive - University of Southampton\Documents\Computer Science\Programming 2\Tetrecs CW\tetrecs\target\site\apidocs\search-page.js = 1682526215126
+C:\Users\Silen\OneDrive - University of Southampton\Documents\Computer Science\Programming 2\Tetrecs CW\tetrecs\target\site\apidocs\search.html = 1682526215112
+C:\Users\Silen\OneDrive - University of Southampton\Documents\Computer Science\Programming 2\Tetrecs CW\tetrecs\target\site\apidocs\search.js = 1682526215125
+C:\Users\Silen\OneDrive - University of Southampton\Documents\Computer Science\Programming 2\Tetrecs CW\tetrecs\target\site\apidocs\stylesheet.css = 1682526215122
+C:\Users\Silen\OneDrive - University of Southampton\Documents\Computer Science\Programming 2\Tetrecs CW\tetrecs\target\site\apidocs\tag-search-index.js = 1682526215089
+C:\Users\Silen\OneDrive - University of Southampton\Documents\Computer Science\Programming 2\Tetrecs CW\tetrecs\target\site\apidocs\type-search-index.js = 1682526215087
